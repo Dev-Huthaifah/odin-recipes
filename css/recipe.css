@@ -1,0 +1,21 @@
+body {
+  background-color: #1f1f1f;
+}
+a {
+  color: red;
+  text-decoration: none;
+  padding: 10px;
+}
+h1 {
+  color: aquamarine;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+}
+h2 {
+  color: blue;
+}
+li,p {
+  color: lightblue;
+}
